@@ -1,6 +1,7 @@
 webgoat/webgoat-8.0:v8.1.0
 sagikazarmark/dvwa:latest
 vulfocus/pikachu:latest
+vulfocus/vulfocus-api:latest
 vulfocus/vulfocus:latest
 brightsec/sqli-lab:latest
 c0ny1/upload-labs:latest
